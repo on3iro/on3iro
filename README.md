@@ -1,4 +1,4 @@
-[![on3iro's GitHub stats](https://github-readme-stats.vercel.app/api?username=on3iro)](https://github.com/anuraghazra/github-readme-stats)
+[![on3iro's GitHub stats](https://github-readme-stats.vercel.app/api?username=on3iro&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
